@@ -9,5 +9,4 @@
         3. Modify code in .vimrc 
 >       5 colorscheme <YOUR_COLOR_SCHEME_NAME>         NOTE: without .vim at the tail.
         4. Open vim again!
-        __[pica](https://nodeca.github.io/pica/demo/)__
 
