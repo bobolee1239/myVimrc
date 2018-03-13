@@ -7,6 +7,6 @@
    2. Put the .vim file in the directory 
 >       ~/.vim/colors
    3. Modify code in .vimrc 
->       colorscheme <YOUR_COLOR_SCHEME_NAME>         NOTE: without .vim at the tail.
+>       colorscheme <YOUR_COLOR_SCHEME_NAME>         "NOTE: without .vim at the tail."
    4. Open vim again!
 
