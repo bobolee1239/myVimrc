@@ -1,4 +1,4 @@
-# ---------- myVimrc ----------
+#       myVimrc
 ##    Description
    It's my vim environment setting, and feel free to change
    the colorscheme if you want. 
