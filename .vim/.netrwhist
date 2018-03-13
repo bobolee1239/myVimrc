@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/brian/Documents/Learning_Python/MIT_600'
+let g:netrw_dirhist_2='/Users/brian/Desktop/Brian/NTHU_Master/Data_Structure/HW/hw1'
+let g:netrw_dirhist_3='/Users/brian/Desktop/Brian/NTHU_Master/Data_Structure/HW/hw1/hw1_1'
+let g:netrw_dirhist_4='/Users/brian/Desktop/MachineLearning/HW/HW3_A061508_李宗翰'
+let g:netrw_dirhist_5='/Users/brian/Desktop/MachineLearning/HW/HW3_A061508_李宗翰/src'
+let g:netrw_dirhist_6='/Users/brian/Terminal_tutorial'
